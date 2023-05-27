@@ -8,6 +8,7 @@
     <name>spring-boot-weblogic</name>
     <modules>
         <module>spring-boot-weblogic-api</module>
+        <module>spring-boot-weblogic-core</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
