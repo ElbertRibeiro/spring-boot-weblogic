@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TesteController {
     @GetMapping
     public String getTest() {
-        return "Teste Weblogic";
+        return "Teste Weblogic com multiModules";
     }
 }
