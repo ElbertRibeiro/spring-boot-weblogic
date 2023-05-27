@@ -7,6 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-weblogic</name>
     <modules>
+        <module>spring-boot-weblogic-core</module>
         <module>spring-boot-weblogic-api</module>
     </modules>
     <packaging>pom</packaging>
